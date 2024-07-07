@@ -1,0 +1,12 @@
+﻿  game.cpp
+D:\Snake\Snake\game.cpp(351,20): warning C4018: '<': signed/unsigned mismatch
+D:\Snake\Snake\game.cpp(385,20): warning C4018: '<': signed/unsigned mismatch
+D:\Snake\Snake\game.cpp(416,20): warning C4018: '<': signed/unsigned mismatch
+D:\Snake\Snake\game.cpp(462,20): warning C4018: '<': signed/unsigned mismatch
+D:\Snake\Snake\game.cpp(491,21): warning C4018: '<': signed/unsigned mismatch
+D:\Snake\Snake\game.cpp(517,21): warning C4018: '<': signed/unsigned mismatch
+D:\Snake\Snake\game.cpp(537,21): warning C4018: '<': signed/unsigned mismatch
+D:\Snake\Snake\game.cpp(603,20): warning C4018: '<': signed/unsigned mismatch
+D:\Snake\Snake\game.cpp(616,20): warning C4018: '<': signed/unsigned mismatch
+D:\Snake\Snake\game.cpp(629,20): warning C4018: '<': signed/unsigned mismatch
+  Snake.vcxproj -> D:\Snake\Debug\Snake.exe
