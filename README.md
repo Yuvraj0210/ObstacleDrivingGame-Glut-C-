@@ -61,8 +61,6 @@ For more detailed information about the game mechanics and design, please refer 
     ./ObstacleDrivingGame
     ```
 
-Enjoy the game and happy driving!
+This project is made for Computer Graphics Evaluation as a part of UCS510 course.
+Submitted by Yuvraj Puri, 102153041
 
----
-
-Feel free to contribute to the project by forking the repository and submitting pull requests. If you encounter any issues, please open an issue on the repository.
